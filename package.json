@@ -1,0 +1,31 @@
+{
+  "name": "pi-sht1x",
+  "version": "0.0.1",
+  "description": "Raspberry Pi library for SHT1x (SHT10, SHT11, SHT15) humidity/temperature sensors.",
+  "main": "SHT1x.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/keito/pi-sht1x.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "rpi",
+    "raspi",
+    "sht1x",
+    "sht10",
+    "sht11",
+    "sht15",
+    "humidity",
+    "temperature",
+    "sensor"
+  ],
+  "author": "Keito Uchiyama",
+  "license": "CC BY-SA v3.0",
+  "bugs": {
+    "url": "https://github.com/keito/pi-sht1x/issues"
+  }
+}

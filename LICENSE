@@ -1,0 +1,17 @@
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0
+Unported License. (http://creativecommons.org/licenses/by-sa/3.0/)
+
+This work is partially a Node.js port of the following library:
+
+Raspberry Pi SHT1x communication library.
+By:      John Burns (www.john.geek.nz)
+Date:    01 November 2012
+License: CC BY-SA v3.0 - http://creativecommons.org/licenses/by-sa/3.0/
+
+Which is a derivative work based on:
+
+Name: Nice Guy SHT11 library
+By: Daesung Kim
+Date: 04/04/2011
+Source: http://www.theniceguy.net/2722
+License: Unknown - Attempts have been made to contact the author
