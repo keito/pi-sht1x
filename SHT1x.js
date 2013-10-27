@@ -390,7 +390,7 @@ function LongWait(callback) {
 }
 
 function calculateValues(rawTemp, rawHumidity) {
-  // Temperature in Celcius
+  // Temperature in Celsius
   var trueTemp = D1 + (D2 * rawTemp);
   // Humidity
   var rhLinear = C1 + (C2 * rawHumidity) + (C3 * rawHumidity * rawHumidity);
